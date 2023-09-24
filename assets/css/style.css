@@ -149,3 +149,29 @@ p {
   font-size: 20px;
 }
 /* condensed all classes to make code shorter. */
+@media (min-width: 1200px) {
+  body {
+    display: flex;
+    display: inline;
+    flex-wrap: wrap;
+    margin: 0px;
+  }
+}
+@media (min-width: 992px) {
+  html {
+    display: flex;
+    display: inline;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0px;
+  }
+}
+@media all and(min-width:768px) {
+  html {
+    display: flex;
+    display: inline;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0px;
+  }
+}
