@@ -14,4 +14,4 @@ Here is a link to view the screenshot of the README.
 ![READMEscreenshot](./assets/images/website%20-%20Google%20Chrome%2011_15_2023%209_34_35%20PM.png)
 Below is the deployed URL:
 
-Your site is live at https://maritzadiaz77.github.io/marketing-tress/
+Your site is live at https://maritzadiaz77.github.io/marketing-tress/ 
