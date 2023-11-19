@@ -7,13 +7,11 @@ We built a website for a marketing client, however the css had a lot of classes 
 
 ## Installation
 
-links to website will be provided for Luigi once assignment is submitted. Luigi will have access to code and be able to view structures of html and CSS code.
-
 #Usage
 Here is a link to view the screenshot of the README.
 
-![READMEscreenshot](https://github.com/maritzadiaz77/tress/assets/144579638/28294f6b-2ab0-45d9-897c-1d78ee720fe8)
-
+![READMEscreenshot](./assets/images/website%20-%20Google%20Chrome%2011_15_2023%209_34_03%20PM.png)
+![READMEscreenshot](./assets/images/website%20-%20Google%20Chrome%2011_15_2023%209_34_35%20PM.png)
 Below is the deployed URL:
 
 Your site is live at https://maritzadiaz77.github.io/marketing-tress/
